@@ -1,2 +1,4 @@
 # subprocess_practice
-me trying to learn working with subprocess library in python.
+I was trying to work with subprocess in python,<br>
+and I decided to share the code here :)<br>
+`nothing serious 😄`
